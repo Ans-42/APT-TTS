@@ -1,2 +1,2 @@
 # APT-TTS
-The code will be allowed to open sourced in October.
+The code will be open sourced in December
